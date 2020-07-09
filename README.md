@@ -1,2 +1,3 @@
 ## Hi there 👋
-### A Computer Science & Engineering undergraduate who loves coding, football and sleeping in that order. 
+#### A Computer Science & Engineering undergraduate who loves coding, football and sleeping in that order. 
+#### NLP Researcher
