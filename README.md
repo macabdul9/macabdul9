@@ -3,9 +3,9 @@
 #### NLP Researcher
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macabdul9&layout=compact&hide=html&theme=gradient" alt="macabdul9" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macabdul9&layout=compact&hide=html&theme=dark" alt="macabdul9" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=macabdul9&show_icons=true&theme=gradient" alt="macabdul9" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=macabdul9&show_icons=true&theme=dark" alt="macabdul9" />
 
 <p align="center">
 </a>
