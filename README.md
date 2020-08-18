@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=macabdul9" alt="macabdul9" /> </p>
+
 ## Hi there 👋
 #### A Computer Science & Engineering undergraduate who loves coding, football and sleeping in that order. 
 #### NLP Researcher
@@ -5,6 +7,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macabdul9&layout=compact&hide=html&theme=onedark" alt="macabdul9" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=macabdul9&show_icons=true&theme=onedark" alt="macabdul9" />
+
 
 <p align="center">
 </a>
